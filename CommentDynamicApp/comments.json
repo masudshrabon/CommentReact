@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "author": "Pete Hunt",
+        "text": "Hey there!"
+    },
+    {
+        "id": 2,
+        "author": "Paul O’Shannessy",
+        "text": "React is *great*!"
+    },
+    {
+        "id": 3,
+        "author": "Maheem Hossain",
+        "text": "React is *great*!"
+    },
+    {
+        "id": 4,
+        "author": "Masudur Rahman",
+        "text": "React is dynamic!"
+    },
+    {
+        "id": 1473843034244,
+        "author": "Maheem",
+        "text": "Hossain"
+    }
+]
